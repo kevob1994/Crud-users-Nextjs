@@ -5,9 +5,13 @@ Este proyecto es una pequeña aplicacion que permite crear,editar y eliminar usu
 ## Tecnologías
 
 -Next js
+
 -Tailwindcss
+
 -Redux
+
 -Redux Thunk
+
 -TypeScript
 
 ## Instalación
