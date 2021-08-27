@@ -15,7 +15,7 @@ Este proyecto es una pequeña aplicacion que permite crear,editar y eliminar usu
  ```
  yarn / npm install
 
- (en consolas distintas lanzar los siguientes comando)
+ (en consolas distintas lanzar los siguientes comandos)
 npm run dev/ yarn run dev (para levantar el frontend)
 
 npm run serve / yarn run serve (para levantar el backend)
